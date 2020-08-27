@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Byte ME! on feature branch
         </a>
       </header>
     </div>
